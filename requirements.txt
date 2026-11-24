@@ -1,0 +1,18 @@
+# GUI Framework
+PySide6
+
+# Image Processing
+Pillow
+
+# UI Theme
+qt-material
+
+# Performance Monitoring
+psutil
+pyqtgraph
+
+# Application Packaging
+pyinstaller
+
+# Optional Development Tools
+# pytest
